@@ -16,7 +16,7 @@ Claw Dev is designed to feel like one tool rather than a provider-specific wrapp
 
 ## Repository Layout
 
-- `Leonxlnx-claude-code/`
+- `trune-claude-code/`
   - bundled terminal client and platform launchers
 - `src/anthropicCompatProxy.ts`
   - local Anthropic-compatible proxy used for OpenAI, Gemini, Groq, OpenRouter, Copilot, and z.ai
